@@ -1,1 +1,1 @@
-# string-generator
+# String Generator
